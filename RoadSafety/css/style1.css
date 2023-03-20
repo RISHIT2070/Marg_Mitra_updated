@@ -19,8 +19,6 @@ a:hover{
     color: #fff;
 }
 
-
-
 .qoutes{
     padding: 18rem 3rem 2rem 3rem;
     text-align: center;
@@ -31,6 +29,11 @@ a:hover{
 #qoutes{
     color: #fff;
 
+}
+
+.stats{
+    margin: 0rem 20rem;
+    padding: 0rem 5rem;
 }
 .carousel-item {
     padding: 0rem 10rem;
@@ -55,5 +58,6 @@ a:hover{
 
 .faq{
     margin:7rem;
-    
+
 }
+
